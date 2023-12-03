@@ -1,0 +1,88 @@
+h1 {
+    color:#0f3c47;
+    font-size: 70px;
+    border: 7px;
+    border-style: solid;
+    border-color: #0f3c47;
+    border-radius: 25px;
+    text-align: center;
+    font-family: 'Fjalla One', sans-serif;
+}
+h2{
+    color:#0f3c47;
+    font-size:55px ;
+    text-align: center;
+    font-family: 'Fjalla One', sans-serif;
+}
+h3{
+    color:#0f3c47;
+    font-size: 45px;
+    text-align: center;
+    font-family: 'Fjalla One', sans-serif;
+}
+h4{
+    color:#0f3c47;
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Fjalla One', sans-serif;
+}
+p{
+    color:black;
+    font-size: 25px;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+}
+body{
+    background-color:#269cba;
+    text-align: center;
+}
+
+
+a{
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Fjalla One', sans-serif;
+    border: 4px;
+    border-style: solid;
+    border-color: #0f3c47;
+    border-radius: 5px;
+    background-color:#0f3c47;
+
+    
+}
+a:link{
+    color:white;
+
+}
+a:visited{
+    color:dimgray;
+}
+a:hover{
+    color:#269;
+}
+img{
+    border: 7px;
+    border-style: solid;
+    border-color: #0f3c47;
+    border-radius: 25px;
+}
+p1{
+    color:black;
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Fjalla One', sans-serif;
+}
+
+l{
+    color:#269cba;
+}
+
+footer{
+    background-color:#0f3c47 ;
+    padding: 3rem;
+    
+}
+footer section{
+    float:right;
+    margin: 0;
+}
